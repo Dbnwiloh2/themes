@@ -1,0 +1,139 @@
+{
+    "name": "my vencord dupe",
+    "description": "AMOLED version of my vencord",
+    "authors": [
+        {
+            "name": "@vorlie",
+            "id": "614807913302851594"
+        }
+    ],
+    "semanticColors": {
+            
+        "HEADER_PRIMARY": [
+            "#0463c9"
+        ],
+        "HEADER_SECONDARY": [
+            "#0463c9"
+        ],
+        "TEXT_NORMAL": [
+            "#0290f5"
+        ],
+        "TEXT_MUTED": [
+            "#0463c9"
+        ],
+        "TEXT_LINK": [
+            "#0083ff"
+        ],
+        "INTERACTIVE_NORMAL": [
+            "#0463c9"
+        ],
+        "INTERACTIVE_ACTIVE": [
+            "#0b078a"
+        ],
+        "INTERACTIVE_MUTED": [
+            "#ffffff4d"
+        ],
+        "BACKGROUND_PRIMARY": [
+            "#000000"
+        ],
+        "BACKGROUND_SECONDARY": [
+           "#000000"
+        ],
+        "BACKGROUND_SECONDARY_ALT": [
+            "#120C13"
+        ],
+        "BACKGROUND_TERTIARY": [
+            "#000000"
+        ],
+        "BACKGROUND_ACCENT": [
+            "#161521"
+        ],
+        "BACKGROUND_FLOATING": [
+            "#000000"
+        ],
+        "BACKGROUND_MOBILE_PRIMARY": [
+            "#000000"
+        ],
+        "BACKGROUND_MOBILE_SECONDARY": [
+            "#000000"
+        ],
+        "BACKGROUND_NESTED_FLOATING": [
+            "#000000"
+        ],
+       
+        "BACKGROUND_MESSAGE_HOVER": [
+            "161521"
+        ],
+        "BACKGROUND_MODIFIER_HOVER": [
+            "161521"
+        ],
+        "BACKGROUND_MODIFIER_ACTIVE": [
+            "##010322"
+        ],
+        "BACKGROUND_MODIFIER_SELECTED": [
+            "#151621"
+        ],
+        "BACKGROUND_MODIFIER_ACCENT": [
+            "#000000"
+        ],
+        "CHANNELTEXTAREA_BACKGROUND": [
+            "#A4A4A4"
+        ],
+        "CHANNELS_DEFAULT": [
+            "#0463c9"
+        ],
+        "TEXT_DANGER": [
+            "#FC0E61"
+        ],
+        "KEYBOARD": [
+            "#3e4fbb"
+        ],
+        "CHANNEL_ICON": [
+            "#190f80"
+        ],
+        "CHAT_BACKGROUND": [
+            "#000000"
+        ]
+    },
+    "rawColors": {
+        "PRIMARY_100": "#FFFFFF",
+        "PRIMARY_200": "#FFFFFF",
+        "PRIMARY_300": "#FFFFFF",
+        "PRIMARY_360": "#2725b8",
+        "PRIMARY_400": "#2725b8",
+        "PRIMARY_500": "#2725b8",
+        "PRIMARY_600": "#000000",
+        "PRIMARY_630": "#000000",
+        "PRIMARY_660": "#000000",
+        "PRIMARY_700": "#000000",
+        "PRIMARY_800": "#000000",
+
+        "BRAND_260": "#082da8",
+        "BRAND_360": "#082da8",
+        "BRAND_500": "#082da8",
+        "BRAND_560": "#2445ff",
+        "WHITE_500": "#2445ff",
+        "YELLOW_300": "#2d3de3",
+        "GREEN_360": "#6995e0",
+        "RED_400": "#FC0E61"
+     },
+  "plus": {
+    "version": "0",
+    "customOverlays": true,
+    "iconpack": "rosiecord-plumpy",
+    "icons": {
+      "StatusStreaming": "#6f30db",
+      "StatusMobileOnline": "#00FF00",
+      "StatusIdle": "#FFA000",
+      "StatusDND": "#FF0000",
+      "StatusOffline": "#737F8D",
+      "StatusOnline": "#00FF00"
+    }
+  },
+  "background": {
+    "blur": 0.6,
+    "url": "https://raw.githubusercontent.com/Dbnwiloh2/themes/main/blackshards.png",
+    "alpha": 0.5
+  },
+  "spec": 2
+}
